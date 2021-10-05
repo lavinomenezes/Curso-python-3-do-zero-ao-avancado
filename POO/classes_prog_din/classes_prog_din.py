@@ -1,0 +1,10 @@
+from fracao import Fracao
+a = Fracao(5,6)
+b = Fracao(7,8)
+print(type(a))
+i = a.inverter()
+m = a.multiplicar(b)
+print(m.num)
+print(m.den)
+print(i.num)
+print(i.den)

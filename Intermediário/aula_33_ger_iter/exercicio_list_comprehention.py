@@ -1,0 +1,6 @@
+carrinho = list()
+carrinho.append(('Produto 1', 30.5))
+carrinho.append(('Produto 2', 40))
+carrinho.append(('Produto 3', 70))
+n = sum([float(carrinho[i][1]) for i in range(len(carrinho))])
+print(n)

@@ -1,0 +1,12 @@
+INFO:Sansung galaxy s21 não está lifado
+INFO:Sansung galaxy s21 Esta conectado
+INFO:Sansung galaxy s21 JÁ esta conectado
+INFO:Sansung galaxy s21 não está lifado
+INFO:Sansung galaxy s21 Esta conectado
+INFO:Sansung galaxy s21 JÁ esta conectado
+INFO:Sansung galaxy s21 não está lifado
+INFO:Sansung galaxy s21 Esta conectado
+INFO:Sansung galaxy s21 JÁ esta conectado
+INFO:Sansung galaxy s21 nao está ligado
+INFO:Sansung galaxy s21 Esta conectado
+Error: Sansung galaxy s21 Ja esta conectado
